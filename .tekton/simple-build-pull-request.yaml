@@ -223,7 +223,7 @@ spec:
         - name: name
           value: buildah-remote-oci-ta
         - name: url
-          value: https://github.com/brianwcook/build-defintions.git
+          value: https://github.com/brianwcook/build-definitions.git
         - name: revision
           value: bazel
         - name: pathInRepo
