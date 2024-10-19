@@ -1,2 +1,2 @@
 FROM registry.access.redhat.com/ubi9/ubi
-RUN dnf -y install nano
+RUN dnf -y install golang
