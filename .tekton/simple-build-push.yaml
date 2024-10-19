@@ -25,7 +25,7 @@ spec:
     value: quay.io/redhat-user-workloads/brianwcook-tenant/simple-build:{{revision}}
   - name: dockerfile
     value: Dockerfile
-    - name: hermetic
+  - name: hermetic
     value: "true"
   - name: prefetch-input
     value: rpm
